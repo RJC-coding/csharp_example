@@ -1,0 +1,15 @@
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.csproj.AssemblyReference.cache
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.AssemblyInfoInputs.cache
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.AssemblyInfo.cs
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.csproj.CoreCompileInputs.cache
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\bin\Debug\net7.0\csharp_example.exe
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\bin\Debug\net7.0\csharp_example.deps.json
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\bin\Debug\net7.0\csharp_example.runtimeconfig.json
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\bin\Debug\net7.0\csharp_example.dll
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\bin\Debug\net7.0\csharp_example.pdb
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.dll
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\refint\csharp_example.dll
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.pdb
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\csharp_example.genruntimeconfig.cache
+C:\old laptop to new 3-11-2020\Marmalade\ForGithub\csharp_example\obj\Debug\net7.0\ref\csharp_example.dll

@@ -1,0 +1,8 @@
+Name, Amount, Price
+Banana, 4, $3.50
+Carrot, 2, $5.50
+Kiwi, 5, $7.55
+Apple, 8, $1.80
+Plum, 1, $2.00
+Orange, 3, $8.76
+Mandarine, 4, $6.10
